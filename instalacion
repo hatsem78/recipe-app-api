@@ -8,3 +8,10 @@ docker-compose build
 una ves creado el container
 para crear el proyecto
 docker-compose run sh -c "django-admin.py startproject app ."
+
+docker-compose run app sh -c "python manage.py startapp core"
+
+correr los test para tdd
+docker-compose run app sh -c "python manage.py test"
+
+docker-compose run app sh -c "python manage.py makemigrations core"
