@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d376bd0-5ffe-40a5-a9c9-d22bb20b3114" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/core/test/test_admin.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/core/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/core/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/core/test/test_models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/test/test_models.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,18 +23,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="171" />
-    <option name="y" value="312" />
-    <option name="width" value="1161" />
-    <option name="height" value="641" />
-  </component>
   <component name="ProjectId" id="1PCPNFrJvpC1OQrPMQeKPNjBlsz" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Dockerfile" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
@@ -55,7 +49,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.models">
+  <component name="RunManager" selected="Docker.recipe-app-api/Dockerfile">
     <configuration name="models" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="recipe-app-api" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -100,8 +94,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.models" />
         <item itemvalue="Docker.recipe-app-api/Dockerfile" />
+        <item itemvalue="Python.models" />
       </list>
     </recent_temporary>
   </component>
@@ -113,43 +107,12 @@
           <expand>
             <path>
               <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@65a28ef6" type="9fbbdea:ServiceModel$ServiceNode" />
-            </path>
-            <path>
-              <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@65a28ef6" type="9fbbdea:ServiceModel$ServiceNode" />
-              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@16adf0b7" type="9fbbdea:ServiceModel$ServiceNode" />
+              <item name="com.intellij.execution.services.ServiceModel$ServiceNode@236bd4af" type="9fbbdea:ServiceModel$ServiceNode" />
             </path>
           </expand>
           <select />
         </treeState>
       </serviceView>
-    </option>
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-          <option name="viewType" value="service" />
-          <option name="roots">
-            <list>
-              <ServiceState>
-                <option name="path">
-                  <list>
-                    <option value="Docker" />
-                    <option value="Docker" />
-                    <option value="Images" />
-                    <option value="sha256:10a4709834e6" />
-                  </list>
-                </option>
-                <option name="contributor" value="com.intellij.docker.view.DockerServiceViewContributor" />
-              </ServiceState>
-            </list>
-          </option>
-        </serviceView>
-      </list>
     </option>
   </component>
   <component name="SvnConfiguration">
@@ -164,6 +127,7 @@
       <updated>1565310294765</updated>
       <workItem from="1565375077402" duration="79000" />
       <workItem from="1565375184120" duration="11861000" />
+      <workItem from="1565442015087" duration="4149000" />
     </task>
     <servers />
   </component>
