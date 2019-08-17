@@ -2,17 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d376bd0-5ffe-40a5-a9c9-d22bb20b3114" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/app/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/core/management/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/core/management/commonds/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/core/management/commonds/wait_for_db.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/core/test/test_commond.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/core/management/commands/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/core/management/commands/wait_for_db.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/management/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/core/test/test_commond.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/test/test_commond.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/docker-compose.yml" beforeDir="false" afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/requirements.txt" beforeDir="false" afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/instalacion" beforeDir="false" afterPath="$PROJECT_DIR$/instalacion" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,12 +31,18 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/core/management/commonds" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/core/management/commands" />
+      <recent name="$PROJECT_DIR$/app/core/management" />
+      <recent name="$PROJECT_DIR$/app/core/management/commonds" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/app/core/management/commonds" />
       <recent name="$PROJECT_DIR$/app" />
     </key>
   </component>
@@ -141,7 +143,11 @@
       <workItem from="1565375184120" duration="11861000" />
       <workItem from="1565442015087" duration="13295000" />
       <workItem from="1565605725216" duration="1594000" />
-      <workItem from="1565677251946" duration="1468000" />
+      <workItem from="1565677251946" duration="5186000" />
+      <workItem from="1565683086516" duration="1001000" />
+      <workItem from="1565687999289" duration="602000" />
+      <workItem from="1565826068191" duration="1304000" />
+      <workItem from="1566070650550" duration="1137000" />
     </task>
     <servers />
   </component>
