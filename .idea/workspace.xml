@@ -2,30 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2d376bd0-5ffe-40a5-a9c9-d22bb20b3114" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/app/core/migrations/0002_tag.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/recipe/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/recipe/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/recipe/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/recipe/test/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/recipe/test/test_tags_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/recipe/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/recipe/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/user/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/user/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/user/serializers.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/user/tests/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/user/tests/test_user_api.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/user/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/user/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/recipe-app-api.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/recipe-app-api.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/app/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/app/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/core/admin.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/admin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/core/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/models.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/core/test/test_models.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/core/test/test_models.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/recipe/test/test_tags_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/recipe/test/test_tags_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/recipe/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/app/recipe/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -208,7 +187,7 @@
       <workItem from="1565826068191" duration="1304000" />
       <workItem from="1566070650550" duration="6843000" />
       <workItem from="1566133427009" duration="436000" />
-      <workItem from="1566134565212" duration="8479000" />
+      <workItem from="1566134565212" duration="10152000" />
     </task>
     <servers />
   </component>
